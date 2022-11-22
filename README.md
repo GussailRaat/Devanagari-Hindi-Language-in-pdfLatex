@@ -1,5 +1,7 @@
 # Devanagari-Hindi-Language-in-pdfLatex
-Easy Steps to write Devanagari (Hindi) Language in pdfLatex
+Easy Steps to write Devanagari (Hindi) Language in latex (pdfLatex)
+
+### First download all the files and run the following commands.
 
 ## For python 2
 **Run command:** python2 get_dn_python2.py dn dn_text.txt
