@@ -257,7 +257,7 @@ nukta_dict = {
 
 def get_preprocessed(text, ext):
 	preprocessor = {
-		'dn': 'devnag',
+		'dn': './devnag',
 		'skt': './skt',
 	}
 	assert ext in preprocessor.keys(), ext
